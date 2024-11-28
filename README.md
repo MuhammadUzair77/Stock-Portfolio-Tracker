@@ -1,4 +1,4 @@
-### Stock Portfolio Tracker: GitHub Repository Description
+### Stock Portfolio Tracker:
 
 **Project Title:** Stock Portfolio Tracker
 
